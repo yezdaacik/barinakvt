@@ -1,0 +1,19 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\bin\Debug\barınak vt.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\bin\Debug\barınak vt.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\bin\Debug\barınak vt.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\obj\Debug\barınak vt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\obj\Debug\barınak vt.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\obj\Debug\barınak_vt.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\obj\Debug\barınak_vt.ListeleForm.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\obj\Debug\barınak_vt.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\obj\Debug\barınak_vt.YeniEkleForm.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\obj\Debug\barınak vt.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\obj\Debug\barınak vt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\obj\Debug\barınak vt.csproj.CopyComplete
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\obj\Debug\barınak vt.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\barınak vt\barınak vt\obj\Debug\barınak vt.pdb
